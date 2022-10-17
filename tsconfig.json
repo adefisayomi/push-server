@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "allowSyntheticDefaultImports": true,
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "rootDir": "src",
+      "outDir": "dist",
+      "sourceMap": true,
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+  }
